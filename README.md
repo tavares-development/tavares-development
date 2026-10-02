@@ -102,10 +102,6 @@ Sou um entusiasta da tecnologia focado em <strong>Desenvolvimento Web Front-end<
 <!-- REDES SOCIAIS E CONTATO -->
 ## 🤝 Vamos nos conectar!
 
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
   <a href="https://www.instagram.com/mthx.bjj?stkn=MXRyaWcyOXp0dG0wZg==" target="_blank">
     <img src="https://shields.io" alt="Instagram" />
   </a>
