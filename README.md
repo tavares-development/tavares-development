@@ -1,6 +1,6 @@
 <!-- BANNER PERSONALIZADO -->
 <p align="center">
-  <img src="https://blob:https://gemini.google.com/05761384-a4b6-448c-9c81-483d103c4b2e" width="100%" alt="Banner de Boas-vindas" />
+  <img src="https://vercel.app" width="100%" alt="Banner de Boas-vindas" />
 </p>
 
 <!-- TYPING ANIMATION (EFEITO DE DIGITAÇÃO) -->
@@ -44,17 +44,17 @@ Sou um entusiasta da tecnologia focado em <strong>Desenvolvimento Web Front-end<
 <table>
   <tr>
     <td width="50%">
-      <p align="center"><strong>🌐 Meu Primeiro Projeto</strong></p>
-      <p align="center">Um projeto incrível construído com HTML5 e CSS3 moderno.</p>
+      <p align="center"><strong>🥤 Projeto Fanta - ScrollTrigger</strong></p>
+      <p align="center">Animações incríveis na web utilizando ScrollTrigger e JavaScript.</p>
       <p align="center">
         <a href="https://github.com">
-          <img src="https://vercel.app" alt="Card Projeto 1" />
+          <img src="https://vercel.app" alt="Card Projeto Fanta" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <p align="center"><strong>🚀 Aplicação Dinâmica</strong></p>
-      <p align="center">Aplicação web explorando manipulação de DOM com JavaScript.</p>
+      <p align="center"><strong>🚀 Próximo Projeto</strong></p>
+      <p align="center">Espaço reservado para o seu segundo projeto interativo.</p>
       <p align="center">
         <a href="https://github.com">
           <img src="https://vercel.app" alt="Card Projeto 2" />
@@ -103,7 +103,10 @@ Sou um entusiasta da tecnologia focado em <strong>Desenvolvimento Web Front-end<
 ## 🤝 Vamos nos conectar!
 
 <p align="left">
-  <a href="https://instagram.com" target="_blank">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/mthx.bjj?stkn=MXRyaWcyOXp0dG0wZg==" target="_blank">
     <img src="https://shields.io" alt="Instagram" />
   </a>
 </p>
