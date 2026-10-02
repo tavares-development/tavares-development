@@ -1,6 +1,6 @@
 <!-- BANNER PERSONALIZADO -->
 <p align="center">
-  <img src="https://vercel.app" width="100%" alt="Banner de Boas-vindas" />
+  <img src="https://blob:https://gemini.google.com/05761384-a4b6-448c-9c81-483d103c4b2e" width="100%" alt="Banner de Boas-vindas" />
 </p>
 
 <!-- TYPING ANIMATION (EFEITO DE DIGITAÇÃO) -->
